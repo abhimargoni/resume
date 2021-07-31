@@ -1,0 +1,58 @@
+{
+	"basics": {
+		"name": "Margoni Abhilash",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2019kucp1052",
+		"phone": "9420244601",
+		"summary": "I am more of a creative person than plagiarize",
+		"location": {
+			"address": "HN-1243 Patwari colony, near police station",
+			"postalCode": "442504",
+			"city": "Sironcha",
+			"countryCode": "India",
+			"region": "Maharashtra"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Abhilash",
+				"url": "https://twitter.com/Abhilas86627112?s=09"
+			},
+			{
+				"network": "Github",
+				"username": "Abhilash Margoni",
+				"url": "https://github.com/abhimargoni"
+			},
+			{
+				"network": "linkedin",
+				"username": "Margoni Abhilash",
+				"url": "https://www.linkedin.com/in/margoni-abhilash-aab381205"
+			},
+			{
+				"network": "Instagram",
+				"username": "abhi_margoni",
+				"url": "https://www.instagram.com/abhi_margoni/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "----",
+		"gpa": "7.66",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "DSA", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Script writting",
+		"keywords": ["Drama", "Street play","Shortfilm"]
+	}],
+	"references": []
+}
