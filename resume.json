@@ -2,6 +2,7 @@
 	"basics": {
 		"name": "Margoni Abhilash",
 		"label": "Student",
+		"picture": "https://raw.githubusercontent.com/abhimargoni/resume/main/WhatsApp%20Image%202021-07-31%20at%209.05.56%20PM.jpeg",
 		"email": "2019kucp1052",
 		"phone": "9420244601",
 		"summary": "I am more of a creative person than plagiarize",
@@ -38,8 +39,8 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
-		"endDate": "----",
+		"startDate": "2019-08-04",
+		"endDate": "2023-06-01",
 		"gpa": "7.66",
 		"courses": [
 			"Computer Science & Engineering"
