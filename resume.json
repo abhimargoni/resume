@@ -3,24 +3,17 @@
 		"name": "Margoni Abhilash",
 		"label": "Student",
 		"picture": "https://raw.githubusercontent.com/abhimargoni/resume/main/WhatsApp%20Image%202021-07-31%20at%209.05.56%20PM.jpeg",
-		"email": "2019kucp1052",
+		"email": "2019kucp1052@iiitkota.ac.in",
 		"phone": "9420244601",
-		"summary": "I am more of a creative person than plagiarize",
 		"location": {
-			"address": "HN-1243 Patwari colony, near police station",
 			"postalCode": "442504",
 			"city": "Sironcha",
 			"countryCode": "India",
 			"region": "Maharashtra"
 		},
 		"profiles": [{
-				"network": "Twitter",
-				"username": "Abhilash",
-				"url": "https://twitter.com/Abhilas86627112?s=09"
-			},
-			{
 				"network": "Github",
-				"username": "Abhilash Margoni",
+				"username": "abhimargoni",
 				"url": "https://github.com/abhimargoni"
 			},
 			{
@@ -35,23 +28,48 @@
 			}
 		]
 	},
+	"work": [
+
+	],
+	"Volunteer": [{
+		"organization": "Incognito",
+		"position": "Core Member",
+		"website": "---",
+		"startDate": "2019-09-02 // Note Date Format",
+		"endDate": "---",
+		"summary": "Cultural Club IIIT,Kota",
+		"highlights": []
+	}],
+	"awards": [{
+		"title": "Runner up at Vivacity,Nukkad Natak Competition",
+		"awarder": "LNMIT Fest Organizing Committee",
+		"date": "2020-02-04//Date"
+	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2019-08-04",
-		"endDate": "2023-06-01",
+		"startDate": "01-08-2019",
+		"endDate": "---",
 		"gpa": "7.66",
 		"courses": [
 			"Computer Science & Engineering"
 		]
 	}],
 	"skills": [{
-		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "DSA", "C/C++", "Add more"]
-	}],
-	"interests": [{
-		"name": "Script writting",
-		"keywords": ["Drama", "Street play","Shortfilm"]
-	}]
+			"level": "Master",
+			"keywords": ["HTML", "CSS","C/C++", "Data Structure","DBMS","OOPS"]
+		},
+		{
+			"level": "Intemediate",
+			"keywords": ["Javascript"]
+		}
+	],
+	"interests": [
+		{
+			"name": "extra curricular",
+			"keywords": ["Script Writing", "Acting", "Memer"]
+		}
+	],
+	"references": []
 }
